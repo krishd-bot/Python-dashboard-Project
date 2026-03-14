@@ -12,10 +12,4 @@ if username and password:
 
     # Step 3: Dashboard only if login successful
     dashboard(success)
-#     if success:
-#         print("\nWelcome to your Dashboard dude! ")
-#         # Yaha tum future me task list ya game add kar sakte ho
-#     else:
-#         print("Cannot enter dashboard without correct login!")
-# else:
-#     print("Signup failed, please try again!")
+
